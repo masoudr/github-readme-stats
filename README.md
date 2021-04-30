@@ -1,2 +1,1 @@
-# github-readme-stats
-My GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoudr)](https://github.com/anuraghazra/github-readme-stats)
