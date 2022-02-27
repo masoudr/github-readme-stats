@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Masoud!
-- 💼 I'm currently working as an embedded systems engineer.
+- 💼 I'm currently working as an embedded system engineer.
 - 🌐 Portfolio: [masoudrahimi.com](https://masoudrahimi.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=masoudr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
