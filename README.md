@@ -12,7 +12,6 @@
 - 🌐 Portfolio: [masoudrahimi.com](https://masoudrahimi.com)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=masoudr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoudr&layout=compact&exclude_repo=masoudr.github.io,buildroot,linux,u-boot,cuckoo,face_recognition)
 
 **Languages and Tools:**
 
