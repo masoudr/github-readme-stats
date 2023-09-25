@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Masoud!
-<a href="https://www.linkedin.com/in/masoud-rahimi-a20a35135">
+<a href="https://www.linkedin.com/in/masoud-rahimi/">
   <img align="left" alt="Masoud's LinkedIN" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/6700019/masoud-rahimi">
+<a href="https://stackoverflow.com/users/6700019/masoud-rahimi?tab=profile">
   <img align="left" alt="Masoud's StackOverflow" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
 </a>
 
